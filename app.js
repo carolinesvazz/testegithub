@@ -31,3 +31,6 @@ git pull
 
 //Como habilitar commit diretamente com Source Control no VS Code
 Realizar as alterações e clicar em Source Control na aba esquerda - assim o botão de commit estará habilitado quando alguma alteração surgir. Clique em + para alternar a linha change e no botão Commit para subir as alterações no repositório remoto;
+
+//Removendo um commit
+git reset --hard digiteaquioIDEdocommit
