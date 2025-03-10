@@ -23,7 +23,8 @@ git push origin master
 git status
 
 //Como clonar repositórios do Git para meu repositório local
-git clone 
+git clone https://github.com/carolinesvazz/numero-secreto.git //link do repositório
+
 
 //Como baixar mudanças no repositório local
 git pull
