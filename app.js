@@ -29,6 +29,5 @@ git clone https://github.com/carolinesvazz/numero-secreto.git //link do reposit�
 //Como baixar mudanças no repositório local
 git pull
 
-//Como habilitar commit diretamente com Source Control
-
+//Como habilitar commit diretamente com Source Control no VS Code
 Realizar as alterações e clicar em Source Control na aba esquerda;
