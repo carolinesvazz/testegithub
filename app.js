@@ -6,7 +6,7 @@ git add .
 git commit -m "projeto inicial" // aqui você coloca o nome do seu projeto
 git remote add origin
 git remote add origin git@githucarolinesvazz/testegithub.git // aqui vai o link do seu repositório
-git push -u origin main(master)
+git push -u origin main(master) //envia os commits do repositório local para o remoto
 
 //Realizando um commit
 
@@ -18,3 +18,12 @@ git log
 
 git remote origin
 git push origin master
+
+//Verificar quais arquivos form modificados no repositório local
+git status
+
+//Como clonar repositórios do Git para meu repositório local
+git clone 
+
+//Como baixar mudanças no repositório local
+git pull
