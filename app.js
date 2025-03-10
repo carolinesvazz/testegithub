@@ -28,3 +28,7 @@ git clone https://github.com/carolinesvazz/numero-secreto.git //link do reposit�
 
 //Como baixar mudanças no repositório local
 git pull
+
+//Como habilitar commit diretamente com Source Control
+
+Realizar as alterações e clicar em Source Control na aba esquerda;
