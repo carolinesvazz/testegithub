@@ -3,4 +3,4 @@ console.log(numeroInteiroAleatorio);
 
 //Realizando um commit e subindo no Git
 
-let jogodonumerosecreto = 0;
+let jogodonumerosecreto = 10;
