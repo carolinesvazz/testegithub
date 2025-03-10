@@ -3,15 +3,15 @@
 
 git init
 git add .
-git commit -m "projeto inicial"
+git commit -m "projeto inicial" // aqui você coloca o nome do seu projeto
 git remote add origin
-git remote add origin git@githucarolinesvazz/testegithub.git
+git remote add origin git@githucarolinesvazz/testegithub.git // aqui vai o link do seu repositório
 git push -u origin main(master)
 
-//Realizando um commit e subindo no Git
+//Realizando um commit
 
 git add .
-git commit -m "alterando o limite do jogo"
+git commit -m "alterando o limite do jogo" // aqui você coloca a alteração que você fez
 git log 
 
 //Conectando o repositório local com o remoto
