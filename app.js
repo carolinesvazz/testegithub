@@ -38,4 +38,4 @@ git reset --hard digiteaquioIDEdocommit
 //Como ignorar um arquivo especifico
 Crie um novo arquivo com o título .gitignore e insira um valor como: temp/
 
-Crie uma pasta com o valor adicionado ao arquivo(temp) e adicione todos os arquivos temporários que não devem ir para o repositório remoto.
+Crie uma pasta com o valor adicionado ao arquivo(temp) e adicione todos os arquivos temporários que não devem ir para o repositório remoto;
